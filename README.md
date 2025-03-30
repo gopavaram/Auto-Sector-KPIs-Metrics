@@ -1,4 +1,4 @@
-# Car Sales Analytics Dashboard – Power BI
+# Auto Sector KPIs & Metrics Dashboard – Power BI
 
 https://github.com/user-attachments/assets/83a3e99c-2c1c-47bb-804f-b4bf7161bd77
 
